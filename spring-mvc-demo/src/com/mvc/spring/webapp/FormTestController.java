@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
+// High level mapping - all the other relative to this form.
+@RequestMapping("hello")
 public class FormTestController {
 	
 	// need a controller method to show the HTML form

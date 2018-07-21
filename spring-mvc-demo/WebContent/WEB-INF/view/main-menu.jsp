@@ -14,7 +14,7 @@
 <hr>
 Login Form:
 <!-- href is the one of the ReuqestMappings that would be called -->
-<a href="showForm"> link </a>
+<a href="hello/showForm"> link </a>
 
 </body>
 </html>
