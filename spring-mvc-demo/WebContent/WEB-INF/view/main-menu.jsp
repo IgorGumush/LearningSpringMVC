@@ -15,6 +15,8 @@
 Login Form:
 <!-- href is the one of the ReuqestMappings that would be called -->
 <a href="hello/showForm"> link </a>
+<br>
+<a href="student/showForm"> student form </a>
 
 </body>
 </html>
