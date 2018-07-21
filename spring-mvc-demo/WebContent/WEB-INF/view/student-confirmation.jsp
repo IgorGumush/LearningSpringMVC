@@ -12,6 +12,8 @@
 	<h3> Student Confirmation Form:</h3>
 
 	The Student is confirmed ${ student.firstName } ${ student.lastName }
+	<br>
+	Country : ${student.country}
 
 </body>
 </html>
